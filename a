@@ -1,0 +1,10 @@
+########## CÓRDOBA ##########
+
+#EXTINF:-1 tvg-id="ar-el-doce" tvg-name="El Doce Córdoba" tvg-logo="https://iptv-org.github.io/logos/ar/el-doce.png", El Doce Córdoba | AR
+https://iptv-org.github.io/channels/ar/ElDoce.m3u8
+
+#EXTINF:-1 tvg-id="ar-telefe-cordoba" tvg-name="Telefe Córdoba" tvg-logo="https://iptv-org.github.io/logos/ar/telefe-cordoba.png", Telefe Córdoba | AR
+https://iptv-org.github.io/channels/ar/TelefeCordoba.m3u8
+
+#EXTINF:-1 tvg-id="ar-canal-10-cordoba" tvg-name="Canal 10 Córdoba" tvg-logo="https://iptv-org.github.io/logos/ar/canal-10-cordoba.png", Canal 10 Córdoba | AR
+https://iptv-org.github.io/channels/ar/Canal10Cordoba.m3u8
